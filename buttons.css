@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+.btn-info {
+    background-color: pink;
+}
+
+.btn-info:hover{
+    background-color: violet;
+}
+
+h2 {
+    color:bisque;
+}
+
+hr {
+    border:3px solid aqua;
+    height:5px;
+}
